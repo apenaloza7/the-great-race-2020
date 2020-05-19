@@ -1,6 +1,4 @@
-# The Great Race of 2020
-
-Coming soon.. (depending on how much time is put into this) 
+# The Great Race of 2020 
 
 <p align="center">
   <img src="Resources/haveAGreatTime.gif"/>
